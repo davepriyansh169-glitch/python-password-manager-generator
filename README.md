@@ -99,14 +99,6 @@ CLI option:
 python pass_manage.py
 ```
 
-## Screenshots
-
-Add screenshots here before or after uploading the project to GitHub.
-
-- `Screenshot 1: Streamlit home screen`
-- `Screenshot 2: Password generator`
-- `Screenshot 3: Vault manager`
-
 ## Disclaimer
 
 This project is intended for educational, learning, and local-use purposes. It is not a production-ready password manager and should not be treated as a replacement for a professionally audited security product.

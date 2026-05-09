@@ -1,0 +1,80 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.hypothesis/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.code-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+~$*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local databases and exports
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.xlsx
+*.jsonl
+exports/
+backup/
+
+# Sensitive local password manager data
+passwords.txt
+passwords*.txt
+vault*.txt
+vault*.enc
+master.pass
+key.key
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Environment and secrets
+.env
+.env.*
+*.env
+secrets.*
+secret.*
+token.*
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Large unnecessary binaries
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
